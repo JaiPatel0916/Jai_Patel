@@ -17,8 +17,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd year student @ **SB Jain College, Nagpur**  
-- 🛠️ Focused on **Backend**, **APIs**, **Blockchain**, and **Supabase**
+- 🎓 4tg year student @ **SB Jain Institute of Technology Management and Research, Nagpur**  
 - 🚀 I build real stuff like:
   - `PredictifyX` → AI crypto trend predictor  
   - `DecentraFund` → Crowdfunding with Polygon  
@@ -38,15 +37,15 @@
 
 ```js
 const JaiPatel = {
-  role: "Backend Developer",
-  stack: ["Node.js", "Express", "MongoDB", "Supabase"],
+  role: "Full Stack Developer",
+  stack: ["Node.js", "Express", "MongoDB"],
   blockchain: ["Solidity", "Hardhat", "Ethers.js"],
   frontend: ["React", "Next.js"],
-  auth: ["Supabase Auth", "Firebase"],
+  auth: ["JWT", "Firebase"],
   current: [
     "PredictifyX - AI crypto prediction app",
     "SmartDine - QR food ordering",
-    "DecentraFund - Polygon crowdfunding"
+    "Fundora - Polygon crowdfunding"
   ]
 }
 ```
