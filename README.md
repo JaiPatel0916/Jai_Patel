@@ -26,8 +26,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiPatel&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPatel&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiPatel0916&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPatel0916&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPatel&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPatel0916&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaiPatel&theme=onestar&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JaiPatel0916&theme=onestar&no-frame=true&row=1&column=7"/>
 </p>
 
 ## 🧩 My Stack in Code
