@@ -17,21 +17,34 @@
 
 ## 🧠 About Me
 
-- 🎓 4tg year student @ **SB Jain Institute of Technology Management and Research, Nagpur**  
+- 🎓 4th year student @ **SB Jain Institute of Technology Management and Research, Nagpur**  
 - 🚀 I build real stuff like:
   - `PredictifyX` → AI crypto trend predictor  
   - `DecentraFund` → Crowdfunding with Polygon  
   - `SmartDine` → QR-based food ordering system  
 
----
-
-## 🚀 Tech Stack
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,solidity,hardhat,ethers,react,nextjs,vercel,git,github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiPatel&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiPatel&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiPatel&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaiPatel&theme=onestar&no-frame=true&row=1&column=7"/>
+</p>
 
 ## 🧩 My Stack in Code
 
