@@ -13,8 +13,6 @@
 </p>
 
 
-
-
 ## 🧠 About Me
 
 - 🎓 4th year student @ **SB Jain Institute of Technology Management and Research, Nagpur**  
@@ -39,12 +37,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaiPatel0916&theme=onestar&no-frame=true&row=1&column=7"/>
-</p>
 
 ## 🧩 My Stack in Code
 
